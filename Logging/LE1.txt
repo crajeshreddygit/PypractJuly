@@ -1,0 +1,6 @@
+10/08/2023 02:15:28 PM:ERROR:division by zero
+Traceback (most recent call last):
+  File "F:\PypractJuly\Logging\LoggException1.py", line 9, in <module>
+    print("Result of x/y i :",x/y)
+                              ~^~
+ZeroDivisionError: division by zero

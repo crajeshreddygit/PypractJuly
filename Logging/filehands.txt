@@ -1,0 +1,2 @@
+18:08:2023 02:2221 PM:ERROR:demologger:Errors
+18:08:2023 02:2221 PM:CRITICAL:demologger:Crucial
