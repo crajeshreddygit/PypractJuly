@@ -1,0 +1,7 @@
+f1 = open("F:\PypractJuly\PytestFile.txt", 'r')
+print(f1.tell())
+f1.read(2)
+print(f1.tell())
+f1.seek(0)
+print(f1.tell())
+f1.close()
